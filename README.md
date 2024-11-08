@@ -13,7 +13,7 @@
 <a href="../../issues/new">:speech_balloon: Add Your Event</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Recently Added</a>
 </h2>
 
-Welcome to the [Docker Singapore Meetup Community](https://www.meetup.com/docker-singapore) repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Bangalore Meetup Community. The main objective is to help members of the Docker Bangalore Meetup community who share similar interests to learn from & collaborate with each other during events. 
+Welcome to the [Docker Singapore Meetup Community](https://www.meetup.com/docker-singapore) repo! This repo aims to centralize content (Meetup presentations, slides, recorded videos, etc) curated by the community members for the Docker Singapore Meetup Community. The main objective is to help members of the Docker Singapore Meetup community who share similar interests to learn from & collaborate with each other during events. 
 
 ## Year 2024
 | Meetup                                                                                                                                             | Slides                                                                                                                     |
