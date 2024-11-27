@@ -18,4 +18,5 @@ Welcome to the [Docker Singapore Meetup Community](https://www.meetup.com/docker
 ## Year 2024
 | Meetup                                                                                                                                             | Slides                                                                                                                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| [Jan 24 - Meetup #2 - Cloud-Native AI Day](https://www.meetup.com/docker-singapore/events/304594268/) | [Slides]() |
 | [Nov 8 - Meetup #1 - Docker DevTools GenAI ](https://www.meetup.com/docker-singapore/events/302802831/) |  [Slides](https://github.com/collabnix/docker-singapore/blob/main/slides/nov-8-aws-office/README.md) |
